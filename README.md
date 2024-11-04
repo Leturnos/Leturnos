@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Leandro, bem vindo ao meu perfil!
 
-- 🐟 Tenho 19 anos
+- 🐟 Tenho 20 anos
 - 🔭 Trabalho numa vidraçaria familiar
 - 🤖 Busco aprender programação, no momento, Python
 - 🌱 Atualmente faço faculdade de ADS na UNINTER

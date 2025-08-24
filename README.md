@@ -2,9 +2,9 @@
 
 - 🐟 Tenho 20 anos
 - 🔭 Trabalho numa vidraçaria familiar
-- 🤖 Busco aprender programação, no momento, Python
+- 🤖 Busco aprender programação, no momento, Python e Java
 - 🌱 Atualmente faço faculdade de ADS na UNINTER
-- 🎮 No tempo livre, me divirto jogando
+- 🎮 Meus passatempos são jogar, ver animes e ler mangás
 ## 
 <h3>Clique para falar comigo:</h3>
 <div>

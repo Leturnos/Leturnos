@@ -1,6 +1,6 @@
 # Olá! Eu sou o Leandro 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e atualmente construindo minha base em desenvolvimento backend com foco em Java, Spring Boot e Python.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focando em construir minha base em desenvolvimento backend com foco em Java, Spring Boot e Python.
 
 ### 👨‍💻 Sobre Mim
 
@@ -100,14 +100,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 -   **DevOps/Infra:** Noções de redes, segurança e CI/CD (teórico).
 -   **IA/ML:** LangChain, LangGraph, RAG e conceitos de LLMs.
 -   **Engenharia de Software:** UML, BPMN, Metodologias Ágeis e Padrões de Projeto.
--   **Idiomas:** Inglês (básico para leitura técnica).
+-   **Idiomas:** Beginner - A1 (Fazendo na EnglishPass).
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/SEU-USERNAME-AQUI">
+  <a href="https://github.com/Leturnos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leturnos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leturnos&layout=compact&langs_count=6&theme=dracula"/>
   </a>

@@ -1,6 +1,6 @@
 # Olá! Eu sou o Leandro 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focando em construir minha base em desenvolvimento backend com foco em Java, Spring Boot e Python.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focado em construir minha base em desenvolvimento backend com foco em Java, Spring Boot e Python.
 
 ### 👨‍💻 Sobre Mim
 
@@ -100,18 +100,18 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 -   **DevOps/Infra:** Noções de redes, segurança e CI/CD (teórico).
 -   **IA/ML:** LangChain, LangGraph, RAG e conceitos de LLMs.
 -   **Engenharia de Software:** UML, BPMN, Metodologias Ágeis e Padrões de Projeto.
--   **Idiomas:** Beginner - A1 (Fazendo na EnglishPass).
+-   **Idiomas:** Pt-BR (Nativo) | En-US (A1 - Estudando ativamente na EnglishPass).
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <a href="https://github.com/Leturnos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leturnos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leturnos&layout=compact&langs_count=6&theme=dracula"/>
-  </a>
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leturnos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Github
+    Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leturnos&layout=compact&langs_count=6&theme=dracula" alt="Top Langs"/>
+</div>
+
 
 ---
 

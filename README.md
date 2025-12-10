@@ -107,11 +107,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leturnos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Github
-    Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leturnos&layout=compact&langs_count=6&theme=dracula" alt="Top Langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leturnos&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=0" alt="Github Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leturnos&layout=compact&langs_count=6&theme=dracula&exclude_langs=CSS,Shell&cache_seconds=0" alt="Top Langs"/>
 </div>
-
 
 ---
 

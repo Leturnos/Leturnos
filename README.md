@@ -1,10 +1,10 @@
 # Olá! Eu sou o Leandro 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focado em construir minha base em desenvolvimento backend com foco em Java, Spring Boot e Python.
+Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focado em construir minha base em desenvolvimento backend com foco em Java, Spring Boot e Python.
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS) na UNINTER.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS) pela UNINTER.
 - 🎯 Focado em aprender e construir projetos principalmente em **Java** e **Python**.
 - 🏢 Trabalho na vidraçaria da minha família.
 - 🚀 Buscando oportunidades para ingressar na área de tecnologia e contribuir com soluções reais.

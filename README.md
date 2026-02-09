@@ -1,18 +1,15 @@
 # Olá! Eu sou o Leandro 👋
 
-Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focado em construir minha base em desenvolvimento backend com foco em Java, Spring Boot e Python.
+Graduado em Análise e Desenvolvimento de Sistemas e focado em desenvolvimento Backend com Java e Spring Boot, além de interesse em Python para dados e IA.
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS) pela UNINTER.
-- 🎯 Focado em aprender e construir projetos principalmente em **Java** e **Python**.
-- 🏢 Trabalho na vidraçaria da minha família.
-- 🚀 Buscando oportunidades para ingressar na área de tecnologia e contribuir com soluções reais.
-- 🎮 Hobbies: games, HQs, animes e mangás fazem parte da minha vida.
-- 🎯 Sempre aprendendo algo novo e explorando boas práticas de desenvolvimento.
-- 📍 Sul de Minas Gerais — Brasil.
-
----
+- 🎓 Graduado em ADS pela UNINTER
+- 🎯 Foco principal: Java, Spring Boot e Python
+- 🏢 Atuo na vidraçaria da minha família
+- 🚀 Buscando oportunidade para ingressar na área de tecnologia
+- 🎮 Hobbies: games, HQs, animes e mangás
+- 📍 Sul de Minas Gerais — Brasil
 
 ### 🚀 Tecnologias e Ferramentas
 
@@ -21,11 +18,11 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologi
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
 </p>
 
@@ -40,6 +37,9 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologi
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
 </p>
 
 <p align="left">
@@ -53,15 +53,15 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologi
 </p>
 
 <p align="left">
-  <strong>DevOps & Ferramentas:</strong><br>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
+  <strong>Ferramentas & DevOps:</strong><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -78,7 +78,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologi
 </p>
 
 <p align="left">
-  <strong>Noções Básicas:</strong><br>
+  <strong>Noções:</strong><br>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   </a>
@@ -95,16 +95,20 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologi
 
 ---
 
-### 📖 Conceitos e Metodologias
+### 📖 Conceitos
 
--   **DevOps/Infra:** Noções de redes, segurança e CI/CD (teórico).
--   **IA/ML:** LangChain, LangGraph, RAG e conceitos de LLMs.
--   **Engenharia de Software:** UML, BPMN, Metodologias Ágeis e Padrões de Projeto.
--   **Idiomas:** Pt-BR (Nativo) | En-US (A1 - Estudando ativamente na EnglishPass).
+-   **Engenharia de Software:** UML, BPMN, Metodologias Ágeis, Padrões de Projeto
+-   **Infra/DevOps:** redes, segurança e CI/CD (teórico)
+-   **IA/ML:** estudando LangChain, RAG e conceitos de LLMs
+
+### 🌎 Idiomas
+
+- **Português** — Nativo
+- **Inglês** — A1 (em estudo ativo)
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leturnos&show_icons=true&theme=dracula&cache_seconds=0" alt="Github Stats"/>
@@ -117,6 +121,6 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologi
 
 <p align="left">
   <a href="mailto:leandrodasilvapereira10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=553592065435" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/leandro-pereira-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=553592065435" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>

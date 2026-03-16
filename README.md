@@ -77,29 +77,11 @@ Graduado em Análise e Desenvolvimento de Sistemas e focado em desenvolvimento B
   </a>
 </p>
 
-<p align="left">
-  <strong>Noções:</strong><br>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/pt-br/apps/aspnet" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"/>
-  </a>
-</p>
-
 ---
 
-### 📖 Conceitos
-
--   **Engenharia de Software:** UML, BPMN, Metodologias Ágeis, Padrões de Projeto
--   **Infra/DevOps:** redes, segurança e CI/CD (teórico)
--   **IA/ML:** estudando LangChain, RAG e conceitos de LLMs
+### 📚 Atualmente estudando
+- Spring Boot e desenvolvimento de APIs REST
+- Machine Learning e Visão Computacional com Python
 
 ### 🌎 Idiomas
 
@@ -112,7 +94,7 @@ Graduado em Análise e Desenvolvimento de Sistemas e focado em desenvolvimento B
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Leturnos&show_icons=true&theme=dracula&cache_seconds=0" alt="Github Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leturnos&layout=compact&langs_count=6&theme=dracula&exclude_langs=CSS,Shell&cache_seconds=0" alt="Top Langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leturnos&layout=compact&langs_count=6&theme=dracula&hide=Jupyter%20Notebook,HTML,CSS,Shell&cache_seconds=0"/>
 </div>
 
 ---
